@@ -1,1 +1,1 @@
-# eventing-showdown
+Eventing and Messaging Showdown
